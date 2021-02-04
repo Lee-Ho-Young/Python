@@ -11,3 +11,4 @@
    -- >> sudo yum -y update
    -- >> sudo yum install python-pip
    -- >> pip install requests 
+   -- >> python test.py
